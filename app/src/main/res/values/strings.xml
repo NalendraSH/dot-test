@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DOT Test</string>
+
+    <string name="internet_connection_error">Internet connection unavailable</string>
+    <string name="server_error">Server error</string>
+
+    <string name="placeholder_item_title">Title Image</string>
+    <string name="placeholder_item_content">Lorem Ipsum</string>
+</resources>
