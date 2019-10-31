@@ -1,4 +1,4 @@
-# Knowledge & Experience Questions
+## Knowledge & Experience Questions
 
 1. Apakah anda pernah menggunakan Kotlin? Jika pernah jelaskan perbedaan mendasar antara Kotlin dengan Java sesuai dengan pengalaman anda. 
 2. Apa saja library Android yang sering atau biasa anda pakai? Jelaskan kegunaannya bagi anda. 
@@ -8,4 +8,4 @@
 6. Jelaskan teknik-teknik apa saja yang dapat meningkatkan performance dan keamanan sebuah aplikasi Android. 
 Apakah anda bersedia onsite di Malang? 
 
-# Knowledge & Experience Answer
+## Knowledge & Experience Answer
